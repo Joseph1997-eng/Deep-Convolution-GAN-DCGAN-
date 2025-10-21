@@ -21,7 +21,7 @@ The core logic is contained in the `C1_W2_.ipynb` notebook. It follows the archi
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Joseph1997-eng/Deep-Convolution-GAN-DCGAN-.git]([https://github.com/YourUsername/YourRepoName.git](https://github.com/Joseph1997-eng/Deep-Convolution-GAN-DCGAN-.git))
+    git clone [https://github.com/Joseph1997-eng/Deep-Convolution-GAN-DCGAN-.git](https://github.com/Joseph1997-eng/Deep-Convolution-GAN-DCGAN-.git)
     cd YourRepoName
     ```
 
