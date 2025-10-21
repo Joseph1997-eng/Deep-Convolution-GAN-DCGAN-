@@ -2,8 +2,6 @@
 
 This repository contains the code for a Deep Convolutional GAN (DCGAN) implemented in PyTorch. The model is trained on the MNIST dataset to generate novel images of handwritten digits.
 
-
-
 ## Project Context
 
 This project is the assignment for **Week 2** of the **"Build Basic Generative Adversarial Networks (GANs)"** course, part of the [DeepLearning.AI GANs Specialization on Coursera](https://www.coursera.org/specializations/generative-adversarial-networks-gans).
@@ -22,7 +20,7 @@ The core logic is contained in the `C1_W2_.ipynb` notebook. It follows the archi
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/Joseph1997-eng/Deep-Convolution-GAN-DCGAN-.git](https://github.com/Joseph1997-eng/Deep-Convolution-GAN-DCGAN-.git)
-    cd YourRepoName
+    cd Deep-Convolution-GAN-DCGAN-
     ```
 
 2.  **Install dependencies:**
@@ -37,6 +35,3 @@ The core logic is contained in the `C1_W2_.ipynb` notebook. It follows the archi
     ```
 
 4.  Open the `C1_W2_.ipynb` file and run the cells.
-
-## (Optional) Example Results
-
